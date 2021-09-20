@@ -1,1 +1,1 @@
-Acamica Podcast Channel Project 
+Podcast Channel made in pure CSS + HTML 
